@@ -1,0 +1,4 @@
+pdfplumber
+pandas
+beautifulsoup4
+lxml
